@@ -308,7 +308,7 @@ Sunday                   30 commits          ██░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc/issues/121) in [PatrickAlphaC/hardhat-smartcontract-lottery-fcc](https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc)
+1. 🚀 Published release [v0.1.0 — Rust hybrid MC engine, streaming backend, 63-test suite](https://github.com/anannyenaik/prosperity-backtester/releases/tag/v0.1.0) in [anannyenaik/prosperity-backtester](https://github.com/anannyenaik/prosperity-backtester)
 2. 🗣 Commented on [#110](https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc/issues/110) in [PatrickAlphaC/hardhat-smartcontract-lottery-fcc](https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc)
 3. 🗣 Commented on [#3491](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3491) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 4. 🗣 Commented on [#3491](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3491) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
