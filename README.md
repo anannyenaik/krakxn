@@ -308,7 +308,7 @@ Sunday                   30 commits          ██░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/anannyenaik/prosperity-backtester/pull/1) in [anannyenaik/prosperity-backtester](https://github.com/anannyenaik/prosperity-backtester)
+1. 💪 Opened PR [#1](https://github.com/anannyenaik/krakxn/pull/1) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
 2. 💪 Opened PR [#1](https://github.com/anannyenaik/prosperity-backtester/pull/1) in [anannyenaik/prosperity-backtester](https://github.com/anannyenaik/prosperity-backtester)
 3. 🚀 Published release [v0.1.0 — Rust hybrid MC engine, streaming backend, 63-test suite](https://github.com/anannyenaik/prosperity-backtester/releases/tag/untagged-0d8917bf89251b662d4d) in [anannyenaik/prosperity-backtester](https://github.com/anannyenaik/prosperity-backtester)
 4. 🗣 Commented on [#3491](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3491) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
