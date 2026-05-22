@@ -308,9 +308,9 @@ Sunday                   30 commits          ██░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/anannyenaik/krakxn/pull/1) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
-2. 💪 Opened PR [#1](https://github.com/anannyenaik/prosperity-backtester/pull/1) in [anannyenaik/prosperity-backtester](https://github.com/anannyenaik/prosperity-backtester)
-3. 🚀 Published release [v0.1.0 — Rust hybrid MC engine, streaming backend, 63-test suite](https://github.com/anannyenaik/prosperity-backtester/releases/tag/untagged-0d8917bf89251b662d4d) in [anannyenaik/prosperity-backtester](https://github.com/anannyenaik/prosperity-backtester)
+1. ❌ Closed PR [#1](https://github.com/anannyenaik/krakxn/pull/1) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
+2. 🗣 Commented on [#1](https://github.com/anannyenaik/krakxn/pull/1#issuecomment-4522913488) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
+3. 💪 Opened PR [#1](https://github.com/anannyenaik/krakxn/pull/1) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
 4. 🗣 Commented on [#3491](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3491) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 5. 💪 Opened PR [#1](https://github.com/zjy-1998/nextjs-smartcontract-lottery-fcc/pull/1) in [zjy-1998/nextjs-smartcontract-lottery-fcc](https://github.com/zjy-1998/nextjs-smartcontract-lottery-fcc)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
