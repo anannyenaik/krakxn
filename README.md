@@ -308,11 +308,11 @@ Sunday                   30 commits          ██░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/anannyenaik/krakxn/pull/1) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
-2. 🗣 Commented on [#1](https://github.com/anannyenaik/krakxn/pull/1#issuecomment-4522913488) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
-3. 💪 Opened PR [#1](https://github.com/anannyenaik/krakxn/pull/1) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
-4. 🗣 Commented on [#3491](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3491) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 💪 Opened PR [#1](https://github.com/zjy-1998/nextjs-smartcontract-lottery-fcc/pull/1) in [zjy-1998/nextjs-smartcontract-lottery-fcc](https://github.com/zjy-1998/nextjs-smartcontract-lottery-fcc)
+1. 🎉 Merged PR [#1](https://github.com/anannyenaik/MimirBench/pull/1) in [anannyenaik/MimirBench](https://github.com/anannyenaik/MimirBench)
+2. 💪 Opened PR [#1](https://github.com/anannyenaik/MimirBench/pull/1) in [anannyenaik/MimirBench](https://github.com/anannyenaik/MimirBench)
+3. ❌ Closed PR [#1](https://github.com/anannyenaik/krakxn/pull/1) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
+4. 🗣 Commented on [#1](https://github.com/anannyenaik/krakxn/pull/1#issuecomment-4522913488) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
+5. 💪 Opened PR [#1](https://github.com/anannyenaik/krakxn/pull/1) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
