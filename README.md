@@ -308,10 +308,10 @@ Sunday                   30 commits          ██░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Asterion v0.1.0: deterministic trading systems lab](https://github.com/anannyenaik/asterion/releases/tag/v0.1.0) in [anannyenaik/asterion](https://github.com/anannyenaik/asterion)
-2. 🎉 Merged PR [#1](https://github.com/anannyenaik/MimirBench/pull/1) in [anannyenaik/MimirBench](https://github.com/anannyenaik/MimirBench)
-3. 💪 Opened PR [#1](https://github.com/anannyenaik/MimirBench/pull/1) in [anannyenaik/MimirBench](https://github.com/anannyenaik/MimirBench)
-4. 🗣 Commented on [#1](https://github.com/anannyenaik/krakxn/pull/1#issuecomment-4522913488) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
+1. 🚀 Published release [MimirBench v0.2.0](https://github.com/anannyenaik/MimirBench/releases/tag/v0.2.0) in [anannyenaik/MimirBench](https://github.com/anannyenaik/MimirBench)
+2. 🚀 Published release [Asterion v0.1.0: deterministic trading systems lab](https://github.com/anannyenaik/asterion/releases/tag/v0.1.0) in [anannyenaik/asterion](https://github.com/anannyenaik/asterion)
+3. 🎉 Merged PR [#1](https://github.com/anannyenaik/MimirBench/pull/1) in [anannyenaik/MimirBench](https://github.com/anannyenaik/MimirBench)
+4. 💪 Opened PR [#1](https://github.com/anannyenaik/MimirBench/pull/1) in [anannyenaik/MimirBench](https://github.com/anannyenaik/MimirBench)
 5. 💪 Opened PR [#1](https://github.com/anannyenaik/krakxn/pull/1) in [anannyenaik/krakxn](https://github.com/anannyenaik/krakxn)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
